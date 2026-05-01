@@ -16,10 +16,10 @@
       "country": "ID",
       "brands": ["XL", "XL Axiata", "Live.On"],
       "apns": [
-        { "value": "internet", "priority": 10 },
+        { "value": "wap.xl.co.id", "priority": 10 },
         { "value": "wap1.xl.co.id", "priority": 20 },
         { "value": "wap2.xl.co.id", "priority": 30 },
-        { "value": "wap.xl.co.id", "priority": 40 },
+        { "value": "internet", "priority": 40 },
         { "value": "www.xlgprs.net", "priority": 50 },
         { "value": "www.xlgprs.com", "priority": 60 },
         { "value": "xlgprs.net", "priority": 70 },
